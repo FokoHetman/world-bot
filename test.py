@@ -20,4 +20,4 @@ async def autocomplete_example(
     choice: Option(str, "what will be your choice!", autocomplete=list_search),
 ):
     await ctx.respond(f"You picked {choice}!")
-client.run("MTAxMzUxNTg0NjcyNDg5ODg2Ng.G_a70E.pDieVe8Y3KjMvoJNabKzS59MHobh7ujnqcS2Y0")
+client.run("TOKEN")
