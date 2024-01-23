@@ -2754,8 +2754,7 @@ async def on_ready():
         except:
             print(f"guild {guild.name} doesn't have any session")
     print('Gotowy do gry - {0.user}'.format(client))
-#OTg3ODAyNjQwNTk3NTM2ODE5.GikUpN.qdOFLyUwz7pmuITp3OZMf9egCHRO7VcdJ7ifHI
-TOKEN = 'MTAxMzUxNTg0NjcyNDg5ODg2Ng.G_a70E.pDieVe8Y3KjMvoJNabKzS59MHobh7ujnqcS2Y0'
+TOKEN = "TOKEN"
 
 client.run(TOKEN)
  
